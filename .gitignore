@@ -1,6 +1,11 @@
 *.properties
-angular/node_modules/
-angular/.angular/cache
+# Angular
+src/main/angular/.angular/
+src/main/angular/node_modules/
+
+# Build artifacts
+target/
+*.class
 *.tar
 *.bat
 

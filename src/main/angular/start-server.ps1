@@ -1,0 +1,1 @@
+Write-Host "Y" | ng serve --configuration development
